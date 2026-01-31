@@ -1,16 +1,26 @@
-## Hi there 👋
+## Hi there 👋 I'm Vojasvi Reddy K
 
-<!--
-**VojasviReddyK/VojasviReddyK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 Passionate developer exploring **Web Development, SQL & Python**  
+✨ Interested in **Product, Content & Creative Tech**  
+🚀 Learning by building, one project at a time
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Tech & Tools
+![HTML](https://img.shields.io/badge/HTML-orange)
+![CSS](https://img.shields.io/badge/CSS-blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
+![SQL](https://img.shields.io/badge/SQL-lightgrey)
+![Python](https://img.shields.io/badge/Python-green)
+
+---
+
+### 📌 What I'm Doing Now
+- 🌱 Strengthening fundamentals & hands-on projects
+- 🛠️ Building portfolio-worthy applications
+- 📚 Sharing my learning journey
+
+---
+
+⭐ Fun fact: Consistency beats talent — and I'm here for the long run.
+
